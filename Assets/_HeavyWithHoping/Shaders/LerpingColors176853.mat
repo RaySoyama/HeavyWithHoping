@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LerpingColors176853
+  m_Shader: {fileID: -6465566751694194690, guid: f564d49e9d9389141a438f750a6c955d,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _Speed: 1
+    m_Colors:
+    - _ColorFour: {r: 0.5394797, g: 0.87136734, b: 0.9734455, a: 1}
+    - _ColorOne: {r: 1, g: 0.637597, b: 0.50888145, a: 1}
+    - _ColorThree: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorTwo: {r: 1, g: 0.4341537, b: 0.61049575, a: 1}
